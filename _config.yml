@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Crzstacoder's devnote"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "someone who free mental"
 name                     : "Crzstacoder"
 description              : "get more information. share more information."
 url                      : "https://mmistakes.github.io"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Crzstacoder"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "wanna get more knowledge..."
+  location         : "Suwon, South Korea"
+  email            : "crazystarcoder@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
