@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Crzstacoder's devnote"
 title_separator          : "-"
-subtitle                 : "Get more knowledge. Share more knowledge."
+subtitle                 : "어쩌다 알아버린 개발지식 블로그"
 name                     : "Crzstacoder"
 description              : "get more information. share more information."
 url                      : "https://mmistakes.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Crzstacoder"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "wanna get more knowledge..."
+  bio              : "Get more knowledge. Share more knowledge."
   location         : "Suwon, South Korea"
   email            : "crazystarcoder@gmail.com"
   links:
