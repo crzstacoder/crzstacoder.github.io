@@ -10,3 +10,11 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+sidebar-category:
+  - title: "category"
+    children:
+      - title: "블로그"
+        url: "/cs"
+      - title: "etc"
+        url: "/etc"
