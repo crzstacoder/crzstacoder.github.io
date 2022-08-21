@@ -35,7 +35,7 @@ last_modified_at: 2022-08-21
  응답을 받고 처리하기까지의 과정에서 대기시간이 너무나도 길어진다는 것이다.
 
   
-  
+
  ## **이벤트 기반 프로그래밍 도입!**
 따라서 응답이 필요한 이벤트는...  
 > 요청을 보내고,  
@@ -44,7 +44,8 @@ last_modified_at: 2022-08-21
 message queue에 쌓인 이벤트들을 차례대로 처리할 수 있게 한다.
 
 ![image](/assets/image/1.png)  
-<cite><h5> [출처] Minsu's Dev Log</cite> --- 메시지 큐와 이벤트 루프</h5>
+<cite>[출처] Minsu's Dev Log</cite> --- 메시지 큐와 이벤트 루프
+{{: .small}}
 
 이것이 바로 js의 동작구조이다.  
 event loop는 지속적으로 message queue(callback queue)에 쌓인 이벤트들을 감지하고,  
