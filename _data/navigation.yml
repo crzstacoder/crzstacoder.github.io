@@ -18,3 +18,5 @@ sidebar-category:
         url: "/cs"
       - title: "etc, tips"
         url: "/etc"
+      - title: "자료구조"
+        url: "/datastruc"
