@@ -14,7 +14,7 @@ main:
 sidebar-category:
   - title: "category"
     children:
-      - title: "블로그"
+      - title: "cs"
         url: "/cs"
-      - title: "etc"
+      - title: "etc, tips"
         url: "/etc"
