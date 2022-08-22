@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Javascript에서의 이벤트 기반 프로그래밍"
+title: "[CS]Javascript에서의 이벤트 기반 프로그래밍"
 excerpt: "node.js, express.js를 쓰다가 알아버린.."
 
 tags:
