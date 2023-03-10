@@ -24,4 +24,6 @@ sidebar-category:
         url: "/portfolio"
       - title: "forstudy"
         url: "/forstudy"
+      - title: "java"
+        url: "/java"
         
