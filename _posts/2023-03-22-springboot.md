@@ -6,7 +6,7 @@ excerpt: "Springboot"
 tags:
     - [Java, JDK, oracle, Spring, Springboot]
 categories:
-    - Spring
+    - spring
 
 toc: true
 toc_sticky: true
