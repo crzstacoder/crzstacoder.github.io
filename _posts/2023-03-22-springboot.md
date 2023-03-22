@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Springboot 서버공부 시작 - 개발환경 세팅 및 서버실행행"
+title: "Springboot 서버공부 시작 - 개발환경 세팅 및 서버실행"
 excerpt: "Springboot"
 
 tags:
